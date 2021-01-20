@@ -9,7 +9,8 @@
 
 
 ## Application layer
-This is the area where an user builts the application. They simply calls the function.
+1. This is the area where an user builts the application. 
+2. They simply calls the function.
 
 
 ## Libraries
